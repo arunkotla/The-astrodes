@@ -2,3 +2,19 @@
 # yarn lockfile v1
 
 
+"0g@^0.0.9":
+  "integrity" "sha512-+puq1wfKqtuUdGQboOEr+3dW+X9Ifni+quTC9k+2CcmE9MLYqBRqSBtFaS70gqJ4J4EGIe+l2MkLSoJWwh2MBA=="
+  "resolved" "https://registry.npmjs.org/0g/-/0g-0.0.9.tgz"
+  "version" "0.0.9"
+  dependencies:
+    "events" "^3.3.0"
+
+"events@^3.3.0":
+  "integrity" "sha512-mQw+2fkQbALzQ7V0MY0IqdnXNOeTtP4r0lN9z7AAawCXgqea7bDii20AYrIBrFd/Hx0M2Ocz6S111CaFkUcb0Q=="
+  "resolved" "https://registry.npmjs.org/events/-/events-3.3.0.tgz"
+  "version" "3.3.0"
+
+"yarn@^1.22.19":
+  "integrity" "sha512-/0V5q0WbslqnwP91tirOvldvYISzaqhClxzyUKXYxs07yUILIs5jx/k6CFe8bvKSkds5w+eiOqta39Wk3WxdcQ=="
+  "resolved" "https://registry.npmjs.org/yarn/-/yarn-1.22.19.tgz"
+  "version" "1.22.19"

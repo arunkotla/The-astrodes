@@ -12,5 +12,9 @@
     "build-dapp": "cd smart-contract; yarn; yarn compile; cd ../minting-dapp; yarn; yarn build",
     "build": "babel src -d lib",
     "test": "jest"
+  },
+  "dependencies": {
+    "0g": "^0.0.9",
+    "yarn": "^1.22.19"
   }
 }
