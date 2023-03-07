@@ -14,12 +14,12 @@ module.exports = {
           from_bg: colors.slate[100],
           to_bg: colors.slate[200],
         },
-        titles: colors.cyan[600],
+        titles: colors.orange[600],
         links: {
-          txt: colors.cyan[600],
-          hover_txt: colors.cyan[700],
+          txt: colors.orange[600],
+          hover_txt: colors.orange[700],
         },
-        loading_spinner: colors.cyan[500],
+        loading_spinner: colors.orange[500],
         popups: {
           bg: colors.white,
           txt: colors.slate[800],
@@ -47,11 +47,11 @@ module.exports = {
         },
         btn_primary: {
           txt: colors.white,
-          bg: colors.cyan[500],
-          border: colors.cyan[500],
+          bg: colors.orange[500],
+          border: colors.orange[500],
           hover_txt: colors.white,
-          hover_bg: colors.cyan[600],
-          hover_border: colors.cyan[600],
+          hover_bg: colors.orange[600],
+          hover_border: colors.orange[600],
         },
         btn_error: {
           txt: colors.white,
@@ -61,25 +61,25 @@ module.exports = {
           hover_bg: colors.red[600],
           hover_border: colors.red[600],
         },
-        label: colors.cyan[600],
+        label: colors.orange[600],
         txt_input: {
-          txt: colors.cyan[600],
+          txt: colors.orange[600],
           bg: colors.white,
           border: colors.slate[200],
-          focus_txt: colors.cyan[600],
+          focus_txt: colors.orange[600],
           focus_bg: colors.slate[50],
-          focus_border: colors.cyan[300],
-          placeholder_txt: colors.cyan[600],
+          focus_border: colors.orange[300],
+          placeholder_txt: colors.orange[600],
         },
         
         // Whitelist proof widget
         wl_message: {
           txt: colors.slate[800],
-          bg: colors.cyan[100],
+          bg: colors.orange[100],
         },
 
         // Mint widget
-        token_preview: colors.cyan[200],
+        token_preview: colors.orange[200],
       },
     },
   },
